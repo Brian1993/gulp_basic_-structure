@@ -1,6 +1,10 @@
 # gulp_basic_-structure
 ## gulp基本開發架構
 ## 使用說明
+先用 npm install 裝好模組即可服用
+```
+npm install
+```
 npm start 後就會開始執行watch的功能，但是沒有 hot reload 的功能，更新完後必須 reload 瀏覽器
 ```
 npm start 
