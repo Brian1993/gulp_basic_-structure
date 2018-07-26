@@ -13,7 +13,9 @@ npm start
 資料夾中，要如果引用js或css可以在外面的index.hmtl模板進行設定
 
 資料夾叫構圖：
+
 <img src="螢幕快照 2018-07-26 下午1.54.23.png" >
+
 ## 功能
 - watch 所有 hmtl , sass , js , image 檔案 並且進行打包
 - 有引入 babel 模組 , 所以可以解譯 ES6 語法 ，但是 Jsx 和 ES6 以上語法無法解譯  
