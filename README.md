@@ -12,7 +12,7 @@ npm start
 專案裡已建置 src 資料夾 ，裡面已分類好資料夾，各包含一隻 main.js 和 main.sass ， js檔會自動被打包成一支 main.js , sass則會被轉譯後存在dist/css
 資料夾中，要如果引用js或css可以在外面的index.hmtl模板進行設定
 
-資料夾叫構圖：
+### 資料夾架構圖：
 
 <img src="螢幕快照 2018-07-26 下午1.54.23.png" >
 
